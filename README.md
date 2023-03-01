@@ -1,3 +1,3 @@
 # uc-nuxt3
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-starter-gy3nof)
+基于 nuxt3 的项目基础模板
